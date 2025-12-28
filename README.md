@@ -40,4 +40,5 @@ The Power BI dashboard includes:
 3. Connect to your PostgreSQL instance if needed.
 
 ## Author
-Mac — aspiring data analyst building real-world projects.
+Mahima,aspiring data analyst building real-world projects.
+
